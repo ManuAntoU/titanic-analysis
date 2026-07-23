@@ -62,6 +62,3 @@ The Titanic dataset contains information about passengers aboard the RMS Titanic
 **Manu Anto U**  
 📅 Day 1 of Data Analysis Journey
 
----
-
-> *"Every expert was once a beginner."* — Keep going! 🚀
